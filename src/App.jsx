@@ -1,5 +1,6 @@
 import react from "react";
-import MyButton from "./useState/MyButton";
+// import MyButton from "./useState/MyButton";
+import Parent from "./contextApi/Parent";
 // import MyCounter from "./useReducer/MyCounter";
 
 // import { AuthProvider } from "./components/AuthContext";
@@ -10,7 +11,8 @@ const App = () =>{
         <div>
             {/* <Counter/> */}
              {/* <MyCounter/> */}
-             <MyButton/>
+             {/* <MyButton/> */}
+             <Parent/>
     
         </div>
     )
