@@ -1,0 +1,23 @@
+*{
+    weigth:0;
+    padding:0;
+}
+
+.input{
+    background: pink;
+    padding:5px;
+    margin:20px;
+}
+
+.btn{
+    background: yellow;
+    margin:10px;
+    font-size: 20px;
+    color:black;
+}
+
+.count-value{
+    font-size:20px;
+    color:green;
+   
+}

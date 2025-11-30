@@ -1,0 +1,19 @@
+/* index.css */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+  background-color: #b7e0f1ff;
+  color: #333;
+  text-align: center; /* centers text inside block elements */
+}
+
+
+h1{
+  text-text: center;
+  color: blue;
+  font-size: 2em;
+  background-color: lightgray;
+}
+
