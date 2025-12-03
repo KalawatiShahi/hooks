@@ -1,18 +1,22 @@
 import react from "react";
+import TodoList from "./useReducer/TodoList";
+// import RCounter from "./useReducer/RCounter";
 // import MyButton from "./useState/MyButton";
-import Parent from "./contextApi/Parent";
+// import Parent from "./contextApi/Parent";
 // import MyCounter from "./useReducer/MyCounter";
 
-// import { AuthProvider } from "./components/AuthContext";
+
 
 
 const App = () =>{
     return(
         <div>
-            {/* <Counter/> */}
+            
              {/* <MyCounter/> */}
              {/* <MyButton/> */}
-             <Parent/>
+             {/* <Parent/> */}
+             {/* <RCounter/> */}
+             <TodoList/>
     
         </div>
     )
