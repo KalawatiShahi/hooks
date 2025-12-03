@@ -63,7 +63,7 @@ export default function TodoApp() {
                 dispatch({ type: "DELETE_TODO", payload: todo.id })
               }
             >
-              ❌
+              delete
             </button>
           </li>
         ))}
